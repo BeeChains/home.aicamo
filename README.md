@@ -1,2 +1,2 @@
 # home.aicamo
-Home of .aicamo , growing Handshake Roots with AIdapp and AdaptaBlend Intelligent Camouflage Creations
+Home of .aicamo , growing Handshake Roots with [AIdapp AdaptaBlend](http://adaptablend.aidapp.hns.to/) Intelligent Camouflage Creations
